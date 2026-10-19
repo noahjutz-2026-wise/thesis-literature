@@ -1,3 +1,17 @@
+3009657_3009806:
+  type: article
+  title: Policy gradient methods for reinforcement learning with function approximation
+  page-range: 1057–1063
+  parent:
+    type: proceedings
+    title: Proceedings of the 13th international conference on neural information processing systems
+    location: Denver, CO
+  date: 1999
+  author:
+    - Sutton, Richard S.
+    - McAllester, David
+    - Singh, Satinder
+    - Mansour, Yishay
 abdenebaouiConnectionistArchitectureLearning2007:
   type: article
   title: A Connectionist Architecture for Learning to Play a Simulated Brio Labyrinth Game
@@ -298,21 +312,6 @@ dgae:
     - Shaik, Shahil
     - Smereka, Jonathon M.
     - Wang, Yue
-dreamerv1:
-  type: article
-  title: 'Dream to Control: Learning Behaviors by Latent Imagination'
-  url:
-    value: https://www.semanticscholar.org/paper/Dream-to-Control%3A-Learning-Behaviors-by-Latent-Hafner-Lillicrap/270b95262f2100c279c4c65ef2521473841ca8ad
-    date: 2026-08-19
-  parent:
-    type: periodical
-    title: ArXiv
-  date: 2019-12-03
-  author:
-    - Hafner, Danijar
-    - Lillicrap, T.
-    - Ba, Jimmy
-    - Norouzi, Mohammad
 dreamerv3:
   type: article
   title: Mastering diverse control tasks through world models
@@ -418,6 +417,23 @@ godoyDeepLearningPyTorch:
   date: 2026-09-12
   author:
     - Godoy, Daniel Voigt
+hafnerDreamControlLearning2020:
+  type: report
+  title: 'Dream to Control: Learning Behaviors by Latent Imagination'
+  language: en
+  url:
+    value: http://arxiv.org/abs/1912.01603
+    date: 2026-10-19
+  parent:
+    title: arXiv.org
+  date: 2020-03-17
+  serial-number:
+    doi: 10.48550/arXiv.1912.01603
+  author:
+    - Hafner, Danijar
+    - Lillicrap, Timothy
+    - Ba, Jimmy
+    - Norouzi, Mohammad
 hafnerMasteringDiverseDomains2024:
   type: report
   title: Mastering Diverse Domains through World Models
@@ -467,17 +483,6 @@ jeffaresIntroductionDiscreteVariational2025:
   author:
     - Jeffares, Alan
     - Liu, Liyuan
-jhaLearningTasksComplex:
-  type: article
-  title: Learning Tasks in a Complex Circular Maze Environment
-  language: en
-  date: 2018
-  author:
-    - Jha, Devesh K
-    - Romeres, Diego
-    - van Baar, Jeroen
-    - Sullivan, Alan
-    - Nikovski, Daniel
 jiModelingDynamicsRandom2026:
   type: article
   title: Modeling Dynamics under Random Delays in Reinforcement Learning
@@ -738,18 +743,20 @@ mcdonaldFootsiesGymFightingGame2026:
     - McDonald, Chase
     - Tsang, Nathan
     - Kerr, Wesley N.
-metzenBRIOLabyrinthGameA2009:
+Metzen2009BRIO:
   type: article
-  title: The BRIO R © Labyrinth Game-A Testbed for Reinforcement Learning and for Studies on Sensorimotor Learning
-  url:
-    value: https://www.semanticscholar.org/paper/The-BRIO-R-%C2%A9-Labyrinth-Game-A-Testbed-for-Learning-Metzen-Kirchner/610317a28fba3c98bbd0df7f8406d073940a58f0
-    date: 2026-09-30
+  title: The BRIO labyrinth game - a testbed for reinforcement learning and for studies on sensorimotor learning
+  url: https://robotik.dfki-bremen.de/en/research/publications/4135
+  parent:
+    type: proceedings
+    title: Proceedings of the multidisciplinary symposium on reinforcement learning
+    location: Montreal
   date: 2009
   author:
-    - Metzen, J.
-    - Kirchner, E.
+    - Metzen, Jan Hendrik
+    - Kirchner, Elsa Andrea
     - Abdenebaoui, Larbi
-    - Kirchner, F.
+    - Kirchner, Frank
 meyerHarnessingDiscreteRepresentations2024:
   type: report
   title: Harnessing Discrete Representations For Continual Reinforcement Learning
@@ -899,19 +906,21 @@ nfq:
     - Tygar, Dough
     - Vardi, Moshe Y.
     - Weikum, Gerhard
-ofjallCombiningVisionMachine2016:
-  type: article
+ofjallCombiningVisionMachine2016a:
+  type: report
   title: Combining Vision, Machine Learning and Automatic Control to Play the Labyrinth Game
+  language: en
   url:
-    value: https://www.semanticscholar.org/paper/Combining-Vision%2C-Machine-Learning-and-Automatic-to-%C3%96fj%C3%A4ll-Felsberg/96c627db11d588b96aaec6b87fd5e3ea233d60da
-    date: 2026-09-30
+    value: http://arxiv.org/abs/1604.00975
+    date: 2026-10-19
   parent:
-    type: periodical
-    title: ArXiv
+    title: arXiv.org
   date: 2016-02-01
+  serial-number:
+    doi: 10.48550/arXiv.1604.00975
   author:
     - Öfjäll, Kristoffer
-    - Felsberg, M.
+    - Felsberg, Michael
 ofjallLEAPPlatformEvaluation2010:
   type: article
   title: LEAP, A Platform for Evaluation of Control Algorithms
@@ -1327,15 +1336,6 @@ suttonDynaIntegratedArchitecture1991:
     issn: 0163-5719
   author:
     - Sutton, Richard S.
-suttonPolicyGradientMethods:
-  type: article
-  title: Policy Gradient Methods for Reinforcement Learning with Function Approximation
-  language: en
-  author:
-    - Sutton, Richard S
-    - McAllester, David
-    - Singh, Satinder
-    - Mansour, Yishay
 torchrl:
   type: report
   title: 'TorchRL: A data-driven decision-making library for PyTorch'
@@ -1423,6 +1423,20 @@ vacaroSimtoRealReinforcementLearning2019:
     - Paula, Thomas
     - Staehler, Wagston
     - Murphy, David
+vanBaar2018dec:
+  type: article
+  title: Learning tasks in a complex circular maze environment
+  url: https://www.merl.com/publications/TR2018-169
+  parent:
+    type: proceedings
+    title: 'NIPS workshop on modeling the physical world: Perception, learning, and control'
+  date: 2018-12
+  author:
+    - Jha, Devesh K.
+    - Romeres, Diego
+    - van Baar, Jeroen
+    - Sullivan, Alan
+    - Nikovski, Daniel N.
 waldemarkUsingReinforcementLearning1995:
   type: article
   title: Using reinforcement learning to solve the labyrinth game, a nonlinear control application
