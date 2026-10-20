@@ -997,15 +997,17 @@ planet:
     - Lee, Honglak
     - Davidson, James
 ppo:
-  type: article
+  type: report
   title: Proximal Policy Optimization Algorithms
+  language: en
   url:
-    value: https://www.semanticscholar.org/paper/Proximal-Policy-Optimization-Algorithms-Schulman-Wolski/dce6f9d4017b1785979e7520fd0834ef8cf02f4b
-    date: 2026-08-19
+    value: http://arxiv.org/abs/1707.06347
+    date: 2026-10-20
   parent:
-    type: periodical
-    title: ArXiv
-  date: 2017-07-20
+    title: arXiv.org
+  date: 2017-08-28
+  serial-number:
+    doi: 10.48550/arXiv.1707.06347
   author:
     - Schulman, John
     - Wolski, Filip
