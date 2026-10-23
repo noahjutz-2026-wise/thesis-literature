@@ -221,6 +221,28 @@ busoniuReinforcementLearningDynamic2017:
     - Babuska, Robert
     - De Schutter, Bart
     - Ernst, Damien
+coacd:
+  type: article
+  title: Approximate Convex Decomposition for 3D Meshes with Collision-Aware Concavity and Tree Search
+  language: en
+  volume: 41
+  issue: 4
+  page-range: 1-18
+  url:
+    value: http://arxiv.org/abs/2205.02961
+    date: 2026-10-23
+  parent:
+    type: periodical
+    title: ACM Transactions on Graphics
+  date: 2022-07
+  serial-number:
+    doi: 10.1145/3528223.3530103
+    issn: 0730-0301, 1557-7368
+  author:
+    - Wei, Xinyue
+    - Liu, Minghua
+    - Ling, Zhan
+    - Su, Hao
 cyberrunner:
   type: report
   title: Sample-Efficient Learning to Solve a Real-World Labyrinth Game Using Data-Augmented Model-Based Reinforcement Learning
@@ -822,6 +844,20 @@ mnihAsynchronousMethodsDeep2016:
     - Harley, Tim
     - Silver, David
     - Kavukcuoglu, Koray
+mujoco:
+  type: article
+  title: 'MuJoCo: A physics engine for model-based control'
+  page-range: 5026–5033
+  parent:
+    type: proceedings
+    title: 2012 IEEE/RSJ international conference on intelligent robots and systems
+  date: 2012
+  serial-number:
+    doi: 10.1109/IROS.2012.6386109
+  author:
+    - Todorov, Emanuel
+    - Erez, Tom
+    - Tassa, Yuval
 muratoreRobotLearningRandomized2022:
   type: article
   title: 'Robot Learning From Randomized Simulations: A Review'
