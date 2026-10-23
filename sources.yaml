@@ -203,6 +203,16 @@ bouteillerReinforcementLearningRandom2020:
     - Beltrame, Giovanni
     - Pal, Christopher
     - Binas, Jonathan
+build123d:
+  type: repository
+  title: 'build123d: A Python-based parametric CAD library'
+  url: https://github.com/gumyr/build123d
+  date: 2025-02
+  serial-number:
+    doi: 10.5281/zenodo.14872323
+    version: 0.9.1
+  author:
+    - Roger Maitland
 busoniuReinforcementLearningDynamic2017:
   type: book
   title: Reinforcement Learning and Dynamic Programming Using Function Approximators
