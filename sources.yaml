@@ -99,6 +99,7 @@ bartosutton:
     name: The MIT Press
     location: Cambridge, Massachusetts London, England
   date: 2020
+  edition: Second edition
   serial-number:
     isbn: 978-0-262-03924-6
   author:
@@ -223,6 +224,7 @@ busoniuReinforcementLearningDynamic2017:
   publisher:
     name: CRC Press
   date: 2017-07-28
+  edition: 0
   serial-number:
     doi: 10.1201/9781439821091
     isbn: 978-1-4398-2109-1
@@ -1067,6 +1069,7 @@ putermanMarkovDecisionProcesses1994:
     name: John Wiley & Sons, Inc.
     location: USA
   date: 1994
+  edition: 1st
   serial-number:
     isbn: 978-0-471-61977-2
   author:
