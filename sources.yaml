@@ -391,6 +391,23 @@ elasriRTHCPDealingInference2025:
     - Rambour, Clément
     - Sigaud, Olivier
     - Thome, Nicolas
+fischertechnik_kugellabyrinth:
+  type: entry
+  title: Kugel-Labyrinth mit Linear-Antrieben und Joystick-Steuerung
+  language: de
+  page-range: 10-13
+  url:
+    value: https://www.ftcommunity.de/ftpedia/2026/2026-3/ftpedia-2026-3.pdf
+    date: 2026-11-11
+  parent:
+    type: reference
+    title: 'ft:pedia : das fischertechnik-Kompendium'
+    publisher: fischertechnik Community
+    issue: 3
+    volume: 2026
+  date: 2026-03
+  author:
+    - Claus, Ludwig
 fotiadisImpactSensorActuator2022:
   type: article
   title: Impact of Sensor and Actuator Clock Offsets on Reinforcement Learning
