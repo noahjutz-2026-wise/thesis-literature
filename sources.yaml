@@ -392,20 +392,21 @@ elasriRTHCPDealingInference2025:
     - Sigaud, Olivier
     - Thome, Nicolas
 fischertechnik_kugellabyrinth:
-  type: entry
+  type: article
   title: Kugel-Labyrinth mit Linear-Antrieben und Joystick-Steuerung
   language: de
+  volume: 2026
+  issue: 3
   page-range: 10-13
   url:
     value: https://www.ftcommunity.de/ftpedia/2026/2026-3/ftpedia-2026-3.pdf
     date: 2026-11-11
   parent:
-    type: reference
+    type: periodical
     title: 'ft:pedia : das fischertechnik-Kompendium'
-    publisher: fischertechnik Community
-    issue: 3
-    volume: 2026
   date: 2026-03
+  serial-number:
+    issn: 2192-5879
   author:
     - Claus, Ludwig
 fotiadisImpactSensorActuator2022:
