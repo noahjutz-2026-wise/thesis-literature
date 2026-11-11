@@ -472,6 +472,14 @@ godoyDeepLearningPyTorch:
   date: 2026-09-12
   author:
     - Godoy, Daniel Voigt
+GoogledeepmindMujoco_warp2026:
+  type: repository
+  title: google-deepmind/mujoco_warp
+  url:
+    value: https://github.com/google-deepmind/mujoco_warp
+    date: 2026-11-11
+  publisher: Google DeepMind
+  date: 2026-11-11
 hafnerMasteringDiverseDomains2024:
   type: report
   title: Mastering Diverse Domains through World Models
