@@ -888,6 +888,19 @@ mujoco:
     - Todorov, Emanuel
     - Erez, Tom
     - Tassa, Yuval
+mujoco_playground_2026:
+  type: repository
+  title: MuJoCo playground
+  url: https://github.com/google-deepmind/mujoco_playground
+  date: 2026
+  author:
+    - Tabanpour, Baruch
+    - Howell, Taylor
+    - Haves, Sam
+    - Abeyruwan, Saminda
+    - Ma, Tony
+    - Suh, Dan
+    - MuJoCo Playground Contributors
 muratoreRobotLearningRandomized2022:
   type: article
   title: 'Robot Learning From Randomized Simulations: A Review'
