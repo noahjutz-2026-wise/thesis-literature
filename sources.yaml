@@ -134,18 +134,28 @@ bellmanDynamicProgramming1957:
     isbn: 978-0-691-07951-6
   author:
     - Bellman, Richard Ernest
-bergattQuantificationMinimizationSimulationRealityGap2009:
+Bergatt2009Quantification:
   type: article
-  title: Quantification and Minimization of the Simulation-Reality-Gap on a BRIO R © Labyrinth Game
-  url:
-    value: https://www.semanticscholar.org/paper/Quantification-and-Minimization-of-the-on-a-BRIO-R-Bergatt-Metzen/4db9ef20029cb155e17078c7e6633d8b25a2e095
-    date: 2026-09-30
-  date: 2009
+  title: Quantification and minimization of the simulation-reality-gap on a BRIO labyrinth game
+  issue: 1
+  url: https://robotik.dfki-bremen.de/en/research/publications/4325
+  parent:
+    type: proceedings
+    title: Proceedings of the first international workshop on learning and data mining for robotics
+    location: Bled
+  date: 2009-09
   author:
     - Bergatt, Constantin
-    - Metzen, J.
-    - Kirchner, E.
-    - Kirchner, F.
+    - Metzen, Jan Hendrik
+    - Kirchner, Elsa Andrea
+    - Kirchner, Frank
+bergattMinimierungUndUntersuchung:
+  type: article
+  title: Minimierung und Untersuchung des Simulation-Reality-Gaps anhand eines BRIO©R -Labyrinth-Spiels
+  language: de
+  date: 2009-03
+  author:
+    - Bergatt, Constantin
 bischlHyperparameterOptimizationFoundations2021:
   type: report
   title: 'Hyperparameter Optimization: Foundations, Algorithms, Best Practices and Open Challenges'
