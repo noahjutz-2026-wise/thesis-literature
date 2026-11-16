@@ -438,6 +438,19 @@ fotiadisImpactSensorActuator2022:
     - Kanellopoulos, Aris
     - Vamvoudakis, Kyriakos G.
     - Hugues, Jérôme
+foundationsCVbook:
+  type: book
+  title: Foundations of computer vision
+  url: https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/
+  publisher:
+    name: MIT Press
+  date: 2024
+  serial-number:
+    isbn: 978-0-262-37866-6
+  author:
+    - Torralba, A.
+    - Isola, P.
+    - Freeman, W.T.
 gae:
   type: report
   title: High-Dimensional Continuous Control Using Generalized Advantage Estimation
