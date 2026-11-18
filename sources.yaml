@@ -855,6 +855,18 @@ meyerHarnessingDiscreteRepresentations2024:
     - Meyer, Edan
     - White, Adam
     - Machado, Marlos C.
+mjlab:
+  type: misc
+  title: 'mjlab: a lightweight framework for GPU-accelerated robot learning'
+  url: https://arxiv.org/abs/2601.22074
+  date: 2026
+  author:
+    - Zakka, Kevin
+    - Liao, Qiayuan
+    - Yi, Brent
+    - Lay, Louis Le
+    - Sreenath, Koushil
+    - Abbeel, Pieter
 mlagents:
   type: report
   title: 'Unity: A General Platform for Intelligent Agents'
