@@ -1346,6 +1346,23 @@ rothertSimtoRealTransferRobotics2024:
     - Lang, Sebastian
     - Seidel, Martin
     - Hanses, Magnus
+rsl_rl2025:
+  type: report
+  title: 'RSL-RL: A Learning Library for Robotics Research'
+  url:
+    value: http://arxiv.org/abs/2509.10771
+    date: 2026-11-20
+  parent:
+    title: arXiv.org
+  date: 2025-09-13
+  serial-number:
+    doi: 10.48550/arXiv.2509.10771
+  author:
+    - Schwarke, Clemens
+    - Mittal, Mayank
+    - Rudin, Nikita
+    - Hoeller, David
+    - Hutter, Marco
 salvatoCrossingRealityGap2021:
   type: article
   title: 'Crossing the Reality Gap: A Survey on Sim-to-Real Transferability of Robot Controllers in Reinforcement Learning'
